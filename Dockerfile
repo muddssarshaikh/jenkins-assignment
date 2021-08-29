@@ -1,2 +1,2 @@
-FROM muddssarshaikh/webapp1
+FROM hshar/webapp
 ADD . /var/www/html
